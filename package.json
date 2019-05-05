@@ -1,0 +1,24 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "Node backend project for vidly app.",
+  "main": "app.js",
+  "dependencies": {
+    "password-hash": "^1.2.2",
+    "debug": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anqini/vidly_app_in_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anqini/vidly_app_in_node/issues"
+  },
+  "homepage": "https://github.com/anqini/vidly_app_in_node#readme"
+}
