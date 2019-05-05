@@ -8,5 +8,16 @@ This project uses nodejs Expressjs framework to build RESTful APIs including get
 
 ## Dependency
 
-- password-hash
-- debug
+- bcrypt
+- config
+- express
+- express-async-errors
+- fawn
+- joi
+- joi-objectid
+- jsonwebtoken
+- lodash
+- moment
+- mongoose
+- winston
+- winston-mongodb
