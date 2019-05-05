@@ -1,5 +1,5 @@
 # Vidly App in Node
-### author: Anqi Ni / Mosh Hamedani
+### Author: Anqi Ni / Mosh Hamedani
 
 ## Intro
 
